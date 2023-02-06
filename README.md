@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Hanife,
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Jetpack Compose
 - 📝 I write articles on: https://medium.com/@kiliccambaz
 
 <!---
